@@ -1,1 +1,1 @@
-# odin-recipes
+Creating a recipe website to open into new links and have images 
